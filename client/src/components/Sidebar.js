@@ -57,6 +57,7 @@ const Sidebar = () => {
         <div className='w-3/4  h-screen'>
         
         <div className="p-4">
+         <h1>Filter</h1>
           <ul className="space-x-2 flex flex-row m-2">
           
           <Link to="/SectorFilter"  className="flex items-center font-bold  w-36 h-12  text-gray-900 rounded-lg bg-red-500 hover:bg-gray-100 dark:bg-gray-600 dark:text-white dark:hover:bg-gray-700">  
